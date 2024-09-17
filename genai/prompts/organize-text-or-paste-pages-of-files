@@ -1,0 +1,32 @@
+Para você que adora utilizar o GPT para organizar seus textos ou simplesmente quer colar algumas páginas inteiras para o Gepeto organizar, aqui vão dois prompts:
+Prompt 1 - Inserindo um arquivo
+
+# Organize e resuma o arquivo inserido com base na estrutura a seguir:
+
+<estrutura>
+1. Tópico
+[Breve explicação do Tópico 1]
+1.1 - Subtópico 1.1
+[Resumo 1.1]
+1.2 - Subtópico
+[Resumo 1.2]
+</estrutura>
+# Siga a mesma ordem das páginas
+Prompt 2 - Colando um texto:
+# Reorganize o [artigo/texto] a seguir, de forma que desenvolva uma cronologia com início, meio e fim.
+
+<texto>
+[dê o seu CTRL+V aqui]
+</texto>
+
+# Siga a estrutura a seguir:
+
+<estrutura>
+1. Tópico
+[Breve explicação do Tópico 1]
+1.1 - Subtópico 1.1
+[Resumo 1.1]
+1.2 - Subtópico
+[Resumo 1.2]
+</estrutura>
+# Siga a mesma ordem das páginas
